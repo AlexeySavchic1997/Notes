@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Вопросы Артёма/Микросервисы/Saga & Outbox.md",
+                "file": "Вопросы Артёма/Микросервисы/Circuit breaker.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Saga & Outbox"
+              "title": "Circuit breaker"
             }
           }
         ]
@@ -192,8 +192,9 @@
   },
   "active": "4ece9f24d46a0211",
   "lastOpenFiles": [
-    "Вопросы Артёма/3 ООП SOLID/2. Solid.md",
     "Вопросы Артёма/Микросервисы/Saga & Outbox.md",
+    "Вопросы Артёма/Микросервисы/Circuit breaker.md",
+    "Вопросы Артёма/3 ООП SOLID/2. Solid.md",
     "Вопросы Артёма/Микросервисы",
     "Вопросы Артёма/Микросервисы.md",
     "Вопросы Артёма/3 ООП SOLID/1. Основные понятия.md",
