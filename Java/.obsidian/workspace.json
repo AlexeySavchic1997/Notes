@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Вопросы Артёма/Микросервисы/Circuit breaker.md",
+                "file": "Вопросы Артёма/Микросервисы/3. Bulkhead.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Circuit breaker"
+              "title": "3. Bulkhead"
             }
           }
         ]
@@ -192,8 +192,9 @@
   },
   "active": "4ece9f24d46a0211",
   "lastOpenFiles": [
-    "Вопросы Артёма/Микросервисы/Saga & Outbox.md",
-    "Вопросы Артёма/Микросервисы/Circuit breaker.md",
+    "Вопросы Артёма/Микросервисы/2. Circuit breaker.md",
+    "Вопросы Артёма/Микросервисы/3. Bulkhead.md",
+    "Вопросы Артёма/Микросервисы/1. Saga & Outbox.md",
     "Вопросы Артёма/3 ООП SOLID/2. Solid.md",
     "Вопросы Артёма/Микросервисы",
     "Вопросы Артёма/Микросервисы.md",
