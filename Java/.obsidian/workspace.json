@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Вопросы Артёма/Микросервисы/5. Api Gateway.md",
+                "file": "Вопросы Артёма/4 Микросервисы/5. Api Gateway.md",
                 "mode": "source",
                 "source": false
               },
@@ -190,15 +190,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "4ece9f24d46a0211",
+  "active": "05c8fb849481005f",
   "lastOpenFiles": [
-    "Вопросы Артёма/Микросервисы/4. Discovery service.md",
-    "Вопросы Артёма/Микросервисы/5. Api Gateway.md",
-    "Вопросы Артёма/Микросервисы/3. Bulkhead.md",
-    "Вопросы Артёма/Микросервисы/2. Circuit breaker.md",
-    "Вопросы Артёма/Микросервисы/1. Saga & Outbox.md",
+    "Вопросы Артёма/4 Микросервисы/4. Discovery service.md",
+    "Вопросы Артёма/4 Микросервисы/5. Api Gateway.md",
+    "Вопросы Артёма/4 Микросервисы/3. Bulkhead.md",
+    "Вопросы Артёма/4 Микросервисы/2. Circuit breaker.md",
+    "Вопросы Артёма/4 Микросервисы/1. Saga & Outbox.md",
     "Вопросы Артёма/3 ООП SOLID/2. Solid.md",
-    "Вопросы Артёма/Микросервисы",
+    "Вопросы Артёма/4 Микросервисы",
     "Вопросы Артёма/Микросервисы.md",
     "Вопросы Артёма/3 ООП SOLID/1. Основные понятия.md",
     "Вопросы Артёма/2 CompletableFuture и асинхронность/5. Потокобезопасные коллекции.md",
