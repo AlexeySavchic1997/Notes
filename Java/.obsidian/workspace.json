@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Вопросы Артёма/5 Hibernate Jpa/2. N+1 problem.md",
+                "file": "Вопросы Артёма/5 Hibernate Jpa/-разница между flush и commit.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2. N+1 problem"
+              "title": "-разница между flush и commit"
             }
           }
         ]
@@ -190,10 +190,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "05c8fb849481005f",
+  "active": "4ece9f24d46a0211",
   "lastOpenFiles": [
-    "Вопросы Артёма/5 Hibernate Jpa/3. Lazy и Eager loading.md",
+    "Вопросы Артёма/5 Hibernate Jpa/5. Dirty checking.md",
+    "Вопросы Артёма/5 Hibernate Jpa/-разница между flush и commit.md",
+    "Вопросы Артёма/5 Hibernate Jpa/4. Жизненный цикл Entity.md",
     "Вопросы Артёма/5 Hibernate Jpa/2. N+1 problem.md",
+    "Вопросы Артёма/5 Hibernate Jpa/3. Lazy и Eager loading.md",
     "Вопросы Артёма/5 Hibernate Jpa/1. Введение.md",
     "Вопросы Артёма/4 Микросервисы/5. Api Gateway.md",
     "Вопросы Артёма/5 Hibernate Jpa",
@@ -220,9 +223,7 @@
     "Вопросы Артёма/1 Records vs generics/2 Какие ограничения.md",
     "Вопросы Артёма/1 Records vs generics/4 Wildcards super extend стирание типов  bunded type.md",
     "Вопросы Артёма/1 Records vs generics/Pasted image 20260814114518.png",
-    "Без названия.md",
     "Вопросы Артёма/1 Records vs generics",
-    "Добро пожаловать.md",
     "Без названия 1",
     "Вопросы Артёма"
   ]
