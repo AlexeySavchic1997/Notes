@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Вопросы Артёма/5 Hibernate Jpa/1. Введение.md",
+                "file": "Вопросы Артёма/5 Hibernate Jpa/N+1 problem.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. Введение"
+              "title": "N+1 problem"
             }
           }
         ]
@@ -192,8 +192,9 @@
   },
   "active": "4ece9f24d46a0211",
   "lastOpenFiles": [
-    "Вопросы Артёма/4 Микросервисы/5. Api Gateway.md",
     "Вопросы Артёма/5 Hibernate Jpa/1. Введение.md",
+    "Вопросы Артёма/5 Hibernate Jpa/N+1 problem.md",
+    "Вопросы Артёма/4 Микросервисы/5. Api Gateway.md",
     "Вопросы Артёма/5 Hibernate Jpa",
     "Вопросы Артёма/4 Микросервисы/4. Discovery service.md",
     "Вопросы Артёма/4 Микросервисы/3. Bulkhead.md",
