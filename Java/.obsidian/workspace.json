@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Вопросы Артёма/Kafka/-Основные понятия.md",
+                "file": "Вопросы Артёма/Kafka/-Физическое устройство данных на диске.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "-Основные понятия"
+              "title": "-Физическое устройство данных на диске"
             }
           }
         ]
@@ -192,8 +192,10 @@
   },
   "active": "4ece9f24d46a0211",
   "lastOpenFiles": [
-    "Вопросы Артёма/Kafka/- Вопросы по kafka.md",
+    "Вопросы Артёма/Kafka/1. Топики и партиции.md",
+    "Вопросы Артёма/Kafka/-Физическое устройство данных на диске.md",
     "Вопросы Артёма/Kafka/-Основные понятия.md",
+    "Вопросы Артёма/Kafka/- Вопросы по kafka.md",
     "Вопросы Артёма/5 Hibernate Jpa/- Методы JPA.md",
     "Вопросы Артёма/5 Hibernate Jpa/6. Уровни кэшей.md",
     "Вопросы Артёма/5 Hibernate Jpa/4. Жизненный цикл Entity.md",
@@ -220,8 +222,6 @@
     "Вопросы Артёма/2 CompletableFuture и асинхронность/- Happens before.md",
     "Вопросы Артёма/2 CompletableFuture и асинхронность/2. Future vs CompletableFuture.md",
     "Вопросы Артёма/2 CompletableFuture и асинхронность/3. Методы ComplitableFuture.md",
-    "Вопросы Артёма/2 CompletableFuture и асинхронность/1. Вступление.md",
-    "Вопросы Артёма/CompletableFuture и асанхронность.md",
     "Вопросы Артёма/2 CompletableFuture и асинхронность",
     "Вопросы Артёма/1 Records vs generics/Pasted image 20260814114518.png",
     "Вопросы Артёма/1 Records vs generics",
