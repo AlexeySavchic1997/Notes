@@ -192,8 +192,9 @@
   },
   "active": "4ece9f24d46a0211",
   "lastOpenFiles": [
-    "Вопросы Артёма/Kafka/- Ассинхронность продьюсера.md",
+    "Вопросы Артёма/5 Hibernate Jpa/3. Lazy и Eager loading.md",
     "Вопросы Артёма/Kafka/5. Гарантии доставки.md",
+    "Вопросы Артёма/Kafka/- Ассинхронность продьюсера.md",
     "Вопросы Артёма/Kafka/4. Offset.md",
     "Вопросы Артёма/Kafka/3. Репликация.md",
     "Вопросы Артёма/Kafka/- Вопросы по kafka.md",
@@ -209,7 +210,6 @@
     "Вопросы Артёма/5 Hibernate Jpa/-разница между flush и commit.md",
     "Вопросы Артёма/5 Hibernate Jpa/5. Dirty checking.md",
     "Вопросы Артёма/5 Hibernate Jpa/2. N+1 problem.md",
-    "Вопросы Артёма/5 Hibernate Jpa/3. Lazy и Eager loading.md",
     "Вопросы Артёма/5 Hibernate Jpa/1. Введение.md",
     "Вопросы Артёма/4 Микросервисы/5. Api Gateway.md",
     "Вопросы Артёма/5 Hibernate Jpa",
