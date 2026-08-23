@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Вопросы Артёма/08 Kubernetis/1. Kubernetis введение.md",
+                "file": "Вопросы Артёма/08 Kubernetis/2. Пробы.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. Kubernetis введение"
+              "title": "2. Пробы"
             }
           }
         ]
@@ -190,10 +190,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "4ece9f24d46a0211",
+  "active": "05c8fb849481005f",
   "lastOpenFiles": [
-    "Вопросы Артёма/07 Docker/1 Doker Введение.md",
     "Вопросы Артёма/08 Kubernetis/1. Kubernetis введение.md",
+    "Вопросы Артёма/08 Kubernetis/2. Пробы.md",
+    "Вопросы Артёма/07 Docker/1 Doker Введение.md",
     "Вопросы Артёма/08 Kubernetis",
     "Вопросы Артёма/07 Docker/2 Kubernetis.md",
     "Вопросы Артёма/06 Kafka/5. Гарантии доставки.md",
@@ -220,7 +221,6 @@
     "Вопросы Артёма/06 Kafka",
     "Вопросы Артёма/05 Hibernate Jpa/-разница между flush и commit.md",
     "Вопросы Артёма/05 Hibernate Jpa/5. Dirty checking.md",
-    "Вопросы Артёма/05 Hibernate Jpa/2. N+1 problem.md",
     "Вопросы Артёма/05 Hibernate Jpa",
     "Вопросы Артёма/04 Микросервисы",
     "Вопросы Артёма/03 ООП SOLID",
