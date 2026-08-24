@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Вопросы Артёма/09 String/String Builder и String Buffer.md",
+                "file": "Вопросы Артёма/04 Микросервисы/-Шардирование и партиципирование.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "String Builder и String Buffer"
+              "title": "-Шардирование и партиципирование"
             }
           }
         ]
@@ -192,8 +192,9 @@
   },
   "active": "4ece9f24d46a0211",
   "lastOpenFiles": [
-    "Вопросы Артёма/09 String/- Общие сведенья.md",
     "Вопросы Артёма/09 String/String Builder и String Buffer.md",
+    "Вопросы Артёма/04 Микросервисы/-Шардирование и партиципирование.md",
+    "Вопросы Артёма/09 String/- Общие сведенья.md",
     "Вопросы Артёма/04 Микросервисы/-Прецентели.md",
     "Вопросы Артёма/09 String",
     "Вопросы Артёма/08 Kubernetis/-Почему в подах как правило больше 1 контейнера.md",
@@ -222,7 +223,6 @@
     "Вопросы Артёма/06 Kafka",
     "Вопросы Артёма/05 Hibernate Jpa/6. Уровни кэшей.md",
     "Вопросы Артёма/05 Hibernate Jpa/5. Dirty checking.md",
-    "Вопросы Артёма/05 Hibernate Jpa/4. Жизненный цикл Entity.md",
     "Вопросы Артёма/05 Hibernate Jpa",
     "Вопросы Артёма/04 Микросервисы",
     "Вопросы Артёма/03 ООП SOLID",
