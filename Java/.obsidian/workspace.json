@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Вопросы Артёма/04 Микросервисы/-Прецентели.md",
+                "file": "Вопросы Артёма/09 String/String Builder и String Buffer.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "-Прецентели"
+              "title": "String Builder и String Buffer"
             }
           }
         ]
@@ -190,11 +190,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "05c8fb849481005f",
+  "active": "4ece9f24d46a0211",
   "lastOpenFiles": [
+    "Вопросы Артёма/09 String/- Общие сведенья.md",
+    "Вопросы Артёма/09 String/String Builder и String Buffer.md",
+    "Вопросы Артёма/04 Микросервисы/-Прецентели.md",
     "Вопросы Артёма/09 String",
     "Вопросы Артёма/08 Kubernetis/-Почему в подах как правило больше 1 контейнера.md",
-    "Вопросы Артёма/04 Микросервисы/-Прецентели.md",
     "Вопросы Артёма/08 Kubernetis/-Сущности K8s.md",
     "Вопросы Артёма/08 Kubernetis/1. Kubernetis введение.md",
     "Вопросы Артёма/08 Kubernetis/3. Stateful и Stateless.md",
@@ -221,14 +223,12 @@
     "Вопросы Артёма/05 Hibernate Jpa/6. Уровни кэшей.md",
     "Вопросы Артёма/05 Hibernate Jpa/5. Dirty checking.md",
     "Вопросы Артёма/05 Hibernate Jpa/4. Жизненный цикл Entity.md",
-    "Вопросы Артёма/05 Hibernate Jpa/3. Lazy и Eager loading.md",
     "Вопросы Артёма/05 Hibernate Jpa",
     "Вопросы Артёма/04 Микросервисы",
     "Вопросы Артёма/03 ООП SOLID",
     "Вопросы Артёма/02 CompletableFuture и асинхронность",
     "Вопросы Артёма/01 Records vs generics",
     "Вопросы Артёма/Kafka",
-    "Вопросы Артёма/5 Hibernate Jpa",
     "Вопросы Артёма/1 Records vs generics/Pasted image 20260814114518.png"
   ]
 }
