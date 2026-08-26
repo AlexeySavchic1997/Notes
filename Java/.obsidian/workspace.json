@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Вопросы Артёма/13. Многопоточность/3. CAS & Atomic.md",
+                "file": "Вопросы Артёма/02 CompletableFuture и асинхронность/- Happens before.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3. CAS & Atomic"
+              "title": "- Happens before"
             }
           }
         ]
@@ -192,8 +192,8 @@
   },
   "active": "4ece9f24d46a0211",
   "lastOpenFiles": [
-    "Вопросы Артёма/13. Многопоточность/1. Synchronized.md",
     "Вопросы Артёма/13. Многопоточность/3. CAS & Atomic.md",
+    "Вопросы Артёма/13. Многопоточность/1. Synchronized.md",
     "Вопросы Артёма/13. Многопоточность/2. Volatile.md",
     "Вопросы Артёма/13. Многопоточность/- Основные понятия.md",
     "Вопросы Артёма/12. Коллекции/2. HashMap.md",
