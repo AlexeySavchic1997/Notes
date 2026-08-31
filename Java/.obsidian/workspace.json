@@ -190,8 +190,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "4ece9f24d46a0211",
+  "active": "05c8fb849481005f",
   "lastOpenFiles": [
+    "Вопросы Артёма/REST & HTTP",
     "Вопросы Артёма/Exception/-Exception под капотом.md",
     "Вопросы Артёма/Exception/-Базовые сведенья.md",
     "Вопросы Артёма/13. Многопоточность/8. Virtual Threads.md",
@@ -220,7 +221,6 @@
     "Вопросы Артёма/04 Микросервисы/3. Bulkhead.md",
     "Вопросы Артёма/05 Hibernate Jpa/- Методы JPA.md",
     "Вопросы Артёма/12. Коллекции/1. Общие сведенья.md",
-    "Вопросы Артёма/04 Микросервисы/5. Api Gateway.md",
     "Вопросы Артёма/12. Коллекции",
     "Вопросы Артёма/11 Immutable",
     "Вопросы Артёма/10 Транзакции",
