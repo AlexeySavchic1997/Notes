@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Вопросы Артёма/Spring Boot/2. @Transational.md",
+                "file": "Вопросы Артёма/Spring Boot/3. AOP.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2. @Transational"
+              "title": "3. AOP"
             }
           }
         ]
@@ -192,8 +192,9 @@
   },
   "active": "4ece9f24d46a0211",
   "lastOpenFiles": [
-    "Вопросы Артёма/Spring Boot/1. Профили и конфигурации.md",
     "Вопросы Артёма/Spring Boot/2. @Transational.md",
+    "Вопросы Артёма/Spring Boot/3. AOP.md",
+    "Вопросы Артёма/Spring Boot/1. Профили и конфигурации.md",
     "Вопросы Артёма/Spring Boot/-Базовые сведенья.md",
     "Вопросы Артёма/REST & HTTP/- Архитектура REST.md",
     "Вопросы Артёма/Spring Boot",
@@ -221,7 +222,6 @@
     "Вопросы Артёма/02 CompletableFuture и асинхронность/- Happens before.md",
     "Вопросы Артёма/13. Многопоточность/3. CAS & Atomic.md",
     "Вопросы Артёма/13. Многопоточность/1. Synchronized.md",
-    "Вопросы Артёма/13. Многопоточность/2. Volatile.md",
     "Вопросы Артёма/13. Многопоточность",
     "Вопросы Артёма/12. Коллекции",
     "Вопросы Артёма/11 Immutable",
