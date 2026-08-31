@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Вопросы Артёма/13. Многопоточность/7.Executors.md",
+                "file": "Вопросы Артёма/13. Многопоточность/8. Virtual Threads.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "7.Executors"
+              "title": "8. Virtual Threads"
             }
           }
         ]
@@ -192,8 +192,9 @@
   },
   "active": "4ece9f24d46a0211",
   "lastOpenFiles": [
-    "Вопросы Артёма/13. Многопоточность/4. Пулы потоков.md",
     "Вопросы Артёма/13. Многопоточность/7.Executors.md",
+    "Вопросы Артёма/13. Многопоточность/8. Virtual Threads.md",
+    "Вопросы Артёма/13. Многопоточность/4. Пулы потоков.md",
     "Вопросы Артёма/13. Многопоточность/6. LiveLock и Lock Starvation.md",
     "Вопросы Артёма/13. Многопоточность/5. DeadLock.md",
     "Вопросы Артёма/02 CompletableFuture и асинхронность/2. Future vs CompletableFuture.md",
@@ -220,7 +221,6 @@
     "Вопросы Артёма/11 Immutable/2. Почему String неизменяемый.md",
     "Вопросы Артёма/12. Коллекции",
     "Вопросы Артёма/11 Immutable/1. Как создать immutable.md",
-    "Вопросы Артёма/10 Транзакции/4. Propagation.md",
     "Вопросы Артёма/11 Immutable",
     "Вопросы Артёма/10 Транзакции",
     "Вопросы Артёма/09 String",
