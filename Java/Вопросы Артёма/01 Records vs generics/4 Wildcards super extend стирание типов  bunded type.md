@@ -61,7 +61,7 @@ public <T extends Number & Comparable<T>> void processNumbers(List<T> list) {
 Разбор ? extends T (Producer)
 Мы используем это, когда коллекция является поставщиком (Producer) данных для нашего метода. Мы только читаем из нее.
 
-Java
+
 public void printNumbers(List  *<*<? extends Number> list) {
     // ЧИТАТЬ можно безопасно. Мы уверены, что там Number или его наследник.
     Number n = list.get(0); 
@@ -74,9 +74,7 @@ public void printNumbers(List  *<*<? extends Number> list) {
 
 Мы используем это, когда коллекция является **потребителем (Consumer)**. Мы собираемся писать в нее данные.
 
-Java
-
-```
+```Java
 public void addNumbers(List  *<*? super Integer> list) {
     // ПИСАТЬ можно безопасно. 
     // Раз это список Integer, Number или Object, он точно примет Integer.
