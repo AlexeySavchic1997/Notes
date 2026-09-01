@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Вопросы Артёма/01 Records vs generics/4 Wildcards super extend стирание типов  bunded type.md",
+                "file": "Вопросы Артёма/02 CompletableFuture и асинхронность/2. Future vs CompletableFuture.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4 Wildcards super extend стирание типов  bunded type"
+              "title": "2. Future vs CompletableFuture"
             }
           }
         ]
@@ -192,6 +192,10 @@
   },
   "active": "4ece9f24d46a0211",
   "lastOpenFiles": [
+    "Вопросы Артёма/02 CompletableFuture и асинхронность/1. Вступление.md",
+    "Вопросы Артёма/02 CompletableFuture и асинхронность/- Happens before.md",
+    "Вопросы Артёма/01 Records vs generics/4 Wildcards super extend стирание типов  bunded type.md",
+    "Вопросы Артёма/01 Records vs generics/Pasted image 20260814114518.png",
     "Вопросы Артёма/01 Records vs generics/3 Наследования поля конструктор.md",
     "Вопросы Артёма/01 Records vs generics/1 Чем отличается рекорд от обычного класса..md",
     "Вопросы Артёма/03 ООП SOLID/1. Основные понятия.md",
@@ -216,9 +220,6 @@
     "Вопросы Артёма/14. Stream API/-Общие сведенья.md",
     "Вопросы Артёма/20. Паттерны проектирования/-Другие.md",
     "Вопросы Артёма/20. Паттерны проектирования/5 Прототип.md",
-    "Вопросы Артёма/20. Паттерны проектирования/4 Строитель.md",
-    "Вопросы Артёма/20. Паттерны проектирования/3 Стратегия.md",
-    "Вопросы Артёма/20. Паттерны проектирования/2 Фабрика.md",
     "Вопросы Артёма/14. Stream API",
     "Вопросы Артёма/20. Паттерны проектирования",
     "Вопросы Артёма/19. GC",
@@ -228,7 +229,6 @@
     "Вопросы Артёма/15. Exception",
     "Собес",
     "Вопросы Артёма/13. Многопоточность",
-    "Вопросы Артёма/01 Records vs generics/Pasted image 20260814114518.png",
     "Вопросы Артёма/1 Records vs generics/Pasted image 20260814114518.png"
   ]
 }
