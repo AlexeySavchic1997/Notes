@@ -192,8 +192,9 @@
   },
   "active": "4ece9f24d46a0211",
   "lastOpenFiles": [
-    "Вопросы Артёма/08 Kubernetis/-Сущности K8s.md",
+    "Вопросы Артёма/08 Kubernetis/-cube scheduler.md",
     "Вопросы Артёма/08 Kubernetis/-Control plane.md",
+    "Вопросы Артёма/08 Kubernetis/-Сущности K8s.md",
     "Вопросы Артёма/08 Kubernetis/-ingress и egress.md",
     "Вопросы Артёма/08 Kubernetis/3. Stateful и Stateless.md",
     "Вопросы Артёма/06 Kafka/-DLQ.md",
@@ -217,7 +218,6 @@
     "Вопросы Артёма/08 Kubernetis/-Стратегии обновления.md",
     "Вопросы Артёма/08 Kubernetis/2. Пробы.md",
     "Вопросы Артёма/08 Kubernetis/1. Kubernetis введение.md",
-    "Вопросы Артёма/08 Kubernetis/Helm.md",
     "Вопросы Артёма/22. Метрики",
     "Вопросы Артёма/01 Records vs generics/Pasted image 20260814114518.png",
     "Вопросы Артёма/21. SQL",
