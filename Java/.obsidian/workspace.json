@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0 Теория/23. Agile/-Scrum & Kanban.md",
+                "file": "0 Теория/08 Kubernetis/-Control plane.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "-Scrum & Kanban"
+              "title": "-Control plane"
             }
           }
         ]
@@ -192,15 +192,15 @@
   },
   "active": "4ece9f24d46a0211",
   "lastOpenFiles": [
-    "0 Теория/23. Agile/-Базовые приципы.md",
+    "0 Теория/08 Kubernetis/-Сущности K8s.md",
     "0 Теория/23. Agile/-Scrum & Kanban.md",
+    "0 Теория/23. Agile/-Базовые приципы.md",
     "0 Теория/08 Kubernetis/Pasted image 20260911105602.png",
     "0 Теория/23. Agile",
     "0 Теория/08 Kubernetis/Pasted image 20260911104749.png",
     "0 Теория/Тесты/Given when then structure.md",
     "0 Теория/08 Kubernetis/- Разница ReplicaSet и Deployment.md",
     "0 Теория/Тесты",
-    "0 Теория/08 Kubernetis/-Сущности K8s.md",
     "0 Теория/08 Kubernetis/- Архитектура Kuberntis.md",
     "0 Теория/08 Kubernetis/-Control plane.md",
     "0 Теория/08 Kubernetis/-Стратегии обновления.md",
