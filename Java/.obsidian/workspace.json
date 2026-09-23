@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0 Теория/13. Многопоточность/8. Virtual Threads.md",
+                "file": "0 Теория/13. Многопоточность/- Работа на уровне железа.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "8. Virtual Threads"
+              "title": "- Работа на уровне железа"
             }
           }
         ]
@@ -192,8 +192,9 @@
   },
   "active": "4ece9f24d46a0211",
   "lastOpenFiles": [
-    "0 Теория/13. Многопоточность/-Дополнения к virtual threads.md",
     "0 Теория/13. Многопоточность/8. Virtual Threads.md",
+    "0 Теория/13. Многопоточность/- Работа на уровне железа.md",
+    "0 Теория/13. Многопоточность/-Дополнения к virtual threads.md",
     "0 Теория/13. Многопоточность/1. Synchronized.md",
     "0 Теория/04 Микросервисы/2. Circuit breaker.md",
     "0 Теория/04 Микросервисы/5. Api Gateway.md",
@@ -222,7 +223,6 @@
     "0 Теория/08 Kubernetis/-ingress и egress.md",
     "0 Теория/08 Kubernetis/3. Stateful и Stateless.md",
     "0 Теория/06 Kafka/-DLQ.md",
-    "0 Теория/06 Kafka/-Consumer offset.md",
     "0 Теория/22. Метрики",
     "0 Теория/01 Records vs generics/Pasted image 20260814114518.png",
     "0 Теория/21. SQL",
